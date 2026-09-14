@@ -3,8 +3,11 @@
 Repositório destinado ao projeto prático da disciplina de Inteligência Artificial (7º semestre) da Universidade Presbiteriana Mackenzie.
 
 ## 👥 Integrantes
-* Rafael Araujo Cabral Moreira - RA: 10441919
-* Rute Willemann - RA: 10436781
+
+| Nome | RA |
+| :---------------- | :------ | 
+Rafael Araujo Cabral Moreira | 10441919
+Rute Willemann | 10436781
 
 ## 🎯 Sobre o Projeto
 Este projeto visa aplicar conceitos de Inteligência Artificial para solucionar um problema prático na área de Negócios. 
