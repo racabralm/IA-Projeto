@@ -32,5 +32,5 @@ O conjunto de dados é formado por dados originais financeiros extraídos direta
 
 ## 🎥 Apresentação em Vídeo
 Assista à demonstração da plataforma e explicação técnica da solução de IA aplicada:
-**[Projeto 2 de IA - Predição de Tendências no Mercado Financeiro com Machine Learning - Rafael e Rute
-]([url](https://youtu.be/d_b2v1FW8lA))**
+[Projeto 2 de IA - Predição de Tendências no Mercado Financeiro com Machine Learning - Rafael e Rute
+]([[url](https://youtu.be/d_b2v1FW8lA)](https://youtu.be/d_b2v1FW8lA))
